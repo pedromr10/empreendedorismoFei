@@ -1,3 +1,6 @@
+Link docs:
+https://docs.google.com/document/d/1gc6DTJTo6Z2GlG_uCpak4S3Jsh3p3YcCerr9Df2a1sg/edit?tab=t.0
+
 # empreendedorismoFei
 materia empreendedorismo fei
 
